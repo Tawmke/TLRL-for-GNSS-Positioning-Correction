@@ -1,0 +1,80 @@
+tripId,Type,Descriptions
+2021-01-04-US-SFO-1/GooglePixel4,highway,NorthWest of Stanford
+2021-01-04-US-SFO-1/GooglePixel4XL,,NorthWest of Stanford
+2021-01-04-US-SFO-1/GooglePixel5,highway,NorthWest of Stanford
+2021-01-04-US-SFO-1/XiaomiMi8,,NorthWest of Stanford
+2021-01-04-US-SFO-2/GooglePixel4,highway,NorthWest of Stanford
+2021-01-04-US-SFO-2/GooglePixel4XL,highway,NorthWest of Stanford
+2021-01-04-US-SFO-2/GooglePixel5,highway,NorthWest of Stanford
+2021-01-04-US-SFO-2/XiaomiMi8,highway,NorthWest of Stanford
+2021-03-10-US-MTV-1/GooglePixel4XL,urban,"West of Sunnyvale, San Jose"
+2021-03-10-US-MTV-1/GooglePixel5,urban,"West of Sunnyvale, San Jose"
+2021-03-10-US-MTV-1/XiaomiMi8,urban,"West of Sunnyvale, San Jose"
+2021-03-16-US-MTV-1/GooglePixel4XL,urban,"NorthWest of Sunnyvale, San Jose"
+2021-03-16-US-MTV-1/GooglePixel5,urban,"NorthWest of Sunnyvale, San Jose"
+2021-03-16-US-MTV-1/SamsungGalaxyS20Ultra,urban,"NorthWest of Sunnyvale, San Jose"
+2021-03-16-US-MTV-1/XiaomiMi8,urban,"NorthWest of Sunnyvale, San Jose"
+2021-03-16-US-MTV-2/GooglePixel4XL,urban,NorthWest of Stanford
+2021-03-16-US-MTV-2/GooglePixel5,urban,NorthWest of Stanford
+2021-03-16-US-MTV-2/SamsungGalaxyS20Ultra,urban,NorthWest of Stanford
+2021-03-16-US-MTV-2/XiaomiMi8,urban,NorthWest of Stanford
+2021-03-16-US-MTV-3/GooglePixel4XL,urban,North of Stanford
+2021-03-16-US-MTV-3/GooglePixel5,urban,North of Stanford
+2021-03-16-US-MTV-3/SamsungGalaxyS20Ultra,urban,North of Stanford
+2021-04-02-US-SJC-1/GooglePixel5,highway,"North of Sunnyvale, San Jose"
+2021-04-02-US-SJC-1/SamsungGalaxyS20Ultra,highway,"North of Sunnyvale, San Jose"
+2021-04-08-US-MTV-1/GooglePixel4,urban,East of Stanford
+2021-04-08-US-MTV-1/GooglePixel5,urban,East of Stanford
+2021-04-08-US-MTV-1/SamsungGalaxyS20Ultra,urban,East of Stanford
+2021-04-21-US-MTV-2/SamsungGalaxyS20Ultra,urban,"NorthWest of Sunnyvale, San Jose"
+2021-04-21-US-MTV-2/XiaomiMi8,urban,"NorthWest of Sunnyvale, San Jose"
+2021-04-28-US-MTV-1/SamsungGalaxyS20Ultra,urban,"NorthWest of Sunnyvale, San Jose"
+2021-04-29-US-MTV-1/SamsungGalaxyS20Ultra,urban,"NorthWest of Sunnyvale, San Jose"
+2021-04-29-US-MTV-1/XiaomiMi8,urban,"NorthWest of Sunnyvale, San Jose"
+2021-04-29-US-MTV-2/SamsungGalaxyS20Ultra,urban,"NorthWest of Sunnyvale, San Jose"
+2021-04-29-US-MTV-2/XiaomiMi8,urban,"NorthWest of Sunnyvale, San Jose"
+2021-07-01-US-MTV-1/GooglePixel4,urban,"NorthWest of Sunnyvale, San Jose"
+2021-07-01-US-MTV-1/GooglePixel5,urban,"NorthWest of Sunnyvale, San Jose"
+2021-07-01-US-MTV-1/SamsungGalaxyS20Ultra,urban,"NorthWest of Sunnyvale, San Jose"
+2021-07-01-US-MTV-1/XiaomiMi8,urban,"NorthWest of Sunnyvale, San Jose"
+2021-07-14-US-MTV-1/GooglePixel4,highway,"South of San Francisco, hillsborough"
+2021-07-19-US-MTV-1/GooglePixel4,highway,NorthWest of Stanford
+2021-07-19-US-MTV-1/GooglePixel5,highway,NorthWest of Stanford
+2021-07-19-US-MTV-1/SamsungGalaxyS20Ultra,highway,NorthWest of Stanford
+2021-07-27-US-MTV-1/GooglePixel4,highway,North of Stanford
+2021-07-27-US-MTV-1/XiaomiMi8,highway,North of Stanford
+2021-08-04-US-SJC-1/GooglePixel4,highway,"Southwest of Sunnyvale, San Jose"
+2021-08-04-US-SJC-1/GooglePixel5,highway,"Southwest of Sunnyvale, San Jose"
+2021-08-04-US-SJC-1/SamsungGalaxyS20Ultra,highway,"Southwest of Sunnyvale, San Jose"
+2021-08-24-US-SVL-1/GooglePixel4,highway,"West of Sunnyvale, San Jose"
+2021-08-24-US-SVL-1/GooglePixel5,highway,"West of Sunnyvale, San Jose"
+2021-08-24-US-SVL-1/XiaomiMi8,highway,"West of Sunnyvale, San Jose"
+2021-12-07-US-LAX-1/GooglePixel6Pro,highway,NorthWest of Los Angeles
+2021-12-07-US-LAX-1/SamsungGalaxyS20Ultra,highway,NorthWest of Los Angeles
+2021-12-07-US-LAX-1/XiaomiMi8,highway,NorthWest of Los Angeles
+2021-12-07-US-LAX-2/GooglePixel6Pro,highway,NorthWest of Los Angeles
+2021-12-07-US-LAX-2/SamsungGalaxyS20Ultra,highway,NorthWest of Los Angeles
+2021-12-07-US-LAX-2/XiaomiMi8,highway,NorthWest of Los Angeles
+2021-12-08-US-LAX-1/GooglePixel5,highway,NorthWest of Los Angeles
+2021-12-08-US-LAX-1/GooglePixel6Pro,highway,NorthWest of Los Angeles
+2021-12-08-US-LAX-1/SamsungGalaxyS20Ultra,highway,NorthWest of Los Angeles
+2021-12-08-US-LAX-1/XiaomiMi8,highway,NorthWest of Los Angeles
+2021-12-08-US-LAX-3/GooglePixel5,highway,NorthWest of Los Angeles
+2021-12-08-US-LAX-3/GooglePixel6Pro,highway,NorthWest of Los Angeles
+2021-12-08-US-LAX-3/SamsungGalaxyS20Ultra,highway,NorthWest of Los Angeles
+2021-12-08-US-LAX-3/XiaomiMi8,highway,NorthWest of Los Angeles
+2021-12-08-US-LAX-5/GooglePixel5,urban,NorthWest of Los Angeles
+2021-12-08-US-LAX-5/GooglePixel6Pro,urban,NorthWest of Los Angeles
+2021-12-08-US-LAX-5/SamsungGalaxyS20Ultra,urban,NorthWest of Los Angeles
+2021-12-08-US-LAX-5/XiaomiMi8,urban,NorthWest of Los Angeles
+2021-12-09-US-LAX-2/GooglePixel6Pro,highway,North of Los Angeles
+2021-12-09-US-LAX-2/SamsungGalaxyS20Ultra,highway,North of Los Angeles
+2021-12-09-US-LAX-2/XiaomiMi8,highway,North of Los Angeles
+2021-12-15-US-MTV-1/GooglePixel5,highway,"NorthWest of Sunnyvale, San Jose"
+2021-12-15-US-MTV-1/GooglePixel6Pro,highway,"NorthWest of Sunnyvale, San Jose"
+2021-12-15-US-MTV-1/SamsungGalaxyS20Ultra,highway,"NorthWest of Sunnyvale, San Jose"
+2021-12-15-US-MTV-1/XiaomiMi8,highway,"NorthWest of Sunnyvale, San Jose"
+2021-12-28-US-MTV-1/GooglePixel5,highway,"NorthWest of Sunnyvale, San Jose"
+2021-12-28-US-MTV-1/GooglePixel6Pro,highway,"NorthWest of Sunnyvale, San Jose"
+2021-12-28-US-MTV-1/SamsungGalaxyS20Ultra,highway,"NorthWest of Sunnyvale, San Jose"
+2021-12-28-US-MTV-1/XiaomiMi8,highway,"NorthWest of Sunnyvale, San Jose"
