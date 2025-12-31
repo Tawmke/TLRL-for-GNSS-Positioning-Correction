@@ -1,0 +1,22 @@
+#L1/2
+            U = resFi - stepSize * np.dot(
+                B, np.dot(B.T, resFi) - state.reshape(-1, 1)
+            ) * self.basic.weightReconstruct * 2
+            condition1 = np.abs(U) > np.power(2*stepSize*self.basic.betaFi, 2/3)*3/2
+            condition2 = np.abs(U) <= np.power(2*stepSize*self.basic.betaFi, 2/3)*3/2
+            temp = 1 + np.cos(2/3*np.arccos(-1*np.power(3, 3/2)/4*2*stepSize*self.basic.betaFi*np.power(np.abs(U[condition1]), -3/2)))
+            resFi[condition1] = (2/3)*U[condition1]*temp
+            resFi[condition2] = 0
+#L2/3
+            U = resFi - stepSize * np.dot(
+                B, np.dot(B.T, resFi) - state.reshape(-1, 1)
+            ) * self.basic.weightReconstruct * 2
+            condition1 = np.abs(U) > np.power((2/3)*2*stepSize*self.basic.betaFi, 3/4)*2
+            condition2 = np.abs(U) <= np.power((2/3)*2*stepSize*self.basic.betaFi, 3/4)*2
+            z0 = np.power(U[condition1], 2)/16
+            z1 = np.power(z0+np.power(np.power(z0, 2)-8*np.power(2*stepSize*self.basic.betaFi, 3)/729, 1/2), 1/3)
+            z2 = np.power(z0-np.power(np.power(z0, 2)-8*np.power(2*stepSize*self.basic.betaFi, 3)/729, 1/2), 1/3)
+            z = z1 + z2
+            temp = np.power(np.power(2*z, 1/2)+np.power(2*np.abs(U[condition1])/np.power(2*z, 1/2)-2*z, 1/2), 3)
+            resFi[condition1] = (1/8)*temp*np.sign(U[condition1])
+            resFi[condition2] = 0
