@@ -21,7 +21,7 @@ trainX_data.pkl                                  # Original observation data
 trainY_data.pkl                                  # Value data
 ```
 ## Quick Start
-### Step 1: pre-training stage
+### Step 1: Pre-training stage
 Creat the environment with Anaconda using `environment.yml`. 
 Run `TLRL4GNSS_pretrain.py` to train a transform dictionary and a action-value weight. It is noted that the project only provides the GSDC2022 data, because the GZ-GNSS data are not publicly available due to confidentiality agreements but are available from the corresponding author on reasonable request. You can set:
 ```python
